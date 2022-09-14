@@ -15,7 +15,7 @@ export const secondaryTextColor = "#B3B3B3"
 
 export const appColor = "#e23c34"
 
-export const MEASUREMENT_ID = "G-1CN4DFCWER";
+export const MEASUREMENT_ID = "G-1CN4DFCWER"
 
 export const footerAbout = "Xtake.finance is a non-custodial liquid staking protocol built on the Avalanche blockchain."
 
